@@ -1,0 +1,9 @@
+pillow==10.2.0
+
+python-dotenv==1.0.0
+
+streamlit==1.30.0
+
+transformers==4.36.2
+tensorflow==2.15.0
+watchdog==3.0.0
