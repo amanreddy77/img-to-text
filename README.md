@@ -26,11 +26,10 @@ Ensure you have Python 3.7 or later installed on your system. If not, download a
 Start by cloning the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/amanreddy77/Img-to-text-main.git>
 cd image-to-text
 ```
 
-Replace `<repository-url>` with the URL of your repository.
 
 ### Create and Activate a Virtual Environment (Optional but Recommended)
 
@@ -103,9 +102,6 @@ This will open the application in your default web browser. The URL will typical
 - **Model Not Found:** Verify that you have installed the correct version of `transformers` and the required deep learning framework (TensorFlow or PyTorch).
 - **Performance Issues:** Ensure that hardware acceleration is configured correctly for TensorFlow or PyTorch if available.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
